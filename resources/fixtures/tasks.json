@@ -1,0 +1,61 @@
+{
+    "create": {
+        "user": {
+            "name": "kauan",
+            "email": "kauantulio@gmail.com",
+            "password": "teste123456"
+        },
+        "task": {
+            "name": "Refatorar aplicação",
+            "tags": ["frontend", "backend", "mobile"]
+        }
+    },
+
+    "duplicate": {
+        "user": {
+            "name": "tulio",
+            "email": "tulio@gmail.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Refatorar automação",
+            "tags": []
+        }
+    },
+
+    "tags_limit": {
+        "user": {
+            "name": "loreto",
+            "email": "loretokauan@gmail.com",
+            "password": "teste123456"
+        },
+        "task": {
+            "name": "Estudar Python",
+            "tags": ["python", "pip", "flask", "backend"]
+        }
+    },
+
+    "done": {
+        "user": {
+            "name": "tulinho",
+            "email": "tulinho@gmail.com",
+            "password": "teste123456"
+        },
+        "task": {
+            "name": "Criar uma nova IA",
+            "tags": ["jarvis", "ultron", "ark"]
+        }
+    },
+
+    "delete": {
+        "user": {
+            "name": "tuliao",
+            "email": "tuliao@gmail.com",
+            "password": "teste123456"
+        },
+        "task": {
+            "name": "Criar IA",
+            "tags": ["jarvis", "ultron", "ark"]
+        }
+    }
+}
